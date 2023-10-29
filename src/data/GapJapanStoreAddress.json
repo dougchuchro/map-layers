@@ -1,0 +1,5180 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.9440944,
+					35.187175
+				]
+			},
+			"properties": {
+				"STORE_NUM": 1,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON NAGOYA DOME-MAE",
+				"POSTAL_CODE": "461-0048",
+				"ADDRESS_LINE_1": "4-102-3 YATAMINAMI",
+				"ADDRESS_LINE_2": "HIGASHI-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン名古屋ドーム前",
+				"ADDRESS_JA": "愛知県名古屋市東区矢田南4-102-3イオンモール名古屋ドーム前2Ｆ",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.5810556,
+					33.1885278
+				]
+			},
+			"properties": {
+				"STORE_NUM": 2,
+				"BRAND": "Gap",
+				"STORE_NAME": "OITA WASADA TOWN",
+				"POSTAL_CODE": "870-1198",
+				"ADDRESS_LINE_1": "755-1 TAMAZAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "OITA-SHI",
+				"ADDRESS_LINE_4": "OITA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "トキハわさだタウン店",
+				"ADDRESS_JA": "大分県大分市玉沢755-1トキハわさだタウン",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7103194,
+					35.7300056
+				]
+			},
+			"properties": {
+				"STORE_NUM": 3,
+				"BRAND": "Gap",
+				"STORE_NAME": "IKEBUKURO TOBU",
+				"POSTAL_CODE": "171-8512",
+				"ADDRESS_LINE_1": "1-1-25 NISHI IKEBUKURO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOSHIMA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "GAP池袋東武店",
+				"ADDRESS_JA": "東京都豊島区西池袋1-1-25東武百貨店　池袋店",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.3593083,
+					36.3747444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 4,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MITO UCHIHARA",
+				"POSTAL_CODE": "319-0317 ",
+				"ADDRESS_LINE_1": "2-1 UCHIHARA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MITO-SHI",
+				"ADDRESS_LINE_4": "IBARAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール水戸内原",
+				"ADDRESS_JA": "茨城県水戸市内原2丁目1番地",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4946306,
+					34.70535
+				]
+			},
+			"properties": {
+				"STORE_NUM": 5,
+				"BRAND": "Gap",
+				"STORE_NAME": "GRAND FRONT OSAKA",
+				"POSTAL_CODE": "530-0011",
+				"ADDRESS_LINE_1": "NORTH 2F, 3-1 OFUKA-CHO",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランフロント大阪",
+				"ADDRESS_JA": "大阪市北区大深町3-1（北館）",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9510472,
+					35.8936694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 6,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT KASHIWANOHA",
+				"POSTAL_CODE": "277-8518",
+				"ADDRESS_LINE_1": "175  WAKASHIBA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KASHIWA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと柏の葉",
+				"ADDRESS_JA": "千葉県柏市若柴175",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1827417,
+					34.6793028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 7,
+				"BRAND": "Gap",
+				"STORE_NAME": "KOBE HARBORLAND UMIE",
+				"POSTAL_CODE": "650-0044",
+				"ADDRESS_LINE_1": "1-7-2 HIGASHIKAWASAKI CHO",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "神戸ハーバーランドumie",
+				"ADDRESS_JA": "神戸市中央区東川崎町1-7-2",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					133.9177833,
+					34.6620944
+				]
+			},
+			"properties": {
+				"STORE_NUM": 8,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL OKAYAMA",
+				"POSTAL_CODE": "700-0907",
+				"ADDRESS_LINE_1": "1-2-1 SHIMOISHII",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "OKAYAMA-SHI",
+				"ADDRESS_LINE_4": "OKAYAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール岡山",
+				"ADDRESS_JA": "岡山県岡山市北区下石井1丁目2番1号",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6601583,
+					35.573775
+				]
+			},
+			"properties": {
+				"STORE_NUM": 9,
+				"BRAND": "Gap",
+				"STORE_NAME": "MUSASHIKOSUGI",
+				"POSTAL_CODE": "211-0004",
+				"ADDRESS_LINE_1": "3-1135-1 SHINMARUKO HIGASHI",
+				"ADDRESS_LINE_2": "NAKAHARA-KU",
+				"ADDRESS_LINE_3": "KAWASAKI-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランツリー武蔵小杉",
+				"ADDRESS_JA": "神奈川県川崎市中原区新丸子東3-1135-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4481083,
+					34.4368611
+				]
+			},
+			"properties": {
+				"STORE_NUM": 10,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT IZUMI",
+				"POSTAL_CODE": "594-1157",
+				"ADDRESS_LINE_1": "4-4-7 AYUMINO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "IZUMI-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと和泉",
+				"ADDRESS_JA": "大阪府和泉市あゆみ野4-4-7",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.9444417,
+					35.1227389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 11,
+				"BRAND": "Gap",
+				"STORE_NAME": "PIERI MORIYAMA",
+				"POSTAL_CODE": "524-0101",
+				"ADDRESS_LINE_1": "2620-5 IMAHAMA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MORIYAMA-SHI",
+				"ADDRESS_LINE_4": "SHIGA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ピエリ守山",
+				"ADDRESS_JA": "滋賀県守山市今浜町2620-5",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5483278,
+					35.8597972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 12,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT FUJIMI",
+				"POSTAL_CODE": "354-8560",
+				"ADDRESS_LINE_1": "1-1313 YAMAMURO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUJIMI-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと富士見",
+				"ADDRESS_JA": "埼玉県富士見市山室一丁目1313番",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					127.79315,
+					26.3011111
+				]
+			},
+			"properties": {
+				"STORE_NUM": 13,
+				"BRAND": "Gap",
+				"STORE_NAME": "OKINAWA AEON MALL",
+				"POSTAL_CODE": "901-2300",
+				"ADDRESS_LINE_1": "4GAICHI AWASETOCHIKUKAU SEIRIJIGYOUCHINAI ",
+				"ADDRESS_LINE_2": "KITANAKAGUSUKU-SON",
+				"ADDRESS_LINE_3": "NAKAGAMI-GUN",
+				"ADDRESS_LINE_4": "OKINAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール沖縄ライカム",
+				"ADDRESS_JA": "沖縄県中頭郡北中城村アワセ土地区画整理事業地内4街区",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4161167,
+					35.7125333
+				]
+			},
+			"properties": {
+				"STORE_NUM": 14,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT TACHIKAWA",
+				"POSTAL_CODE": "190-0015",
+				"ADDRESS_LINE_1": "935-1 IZUMICHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TACHIKAWA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと立川立飛",
+				"ADDRESS_JA": "東京都立川市泉町935-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6217944,
+					35.9068889
+				]
+			},
+			"properties": {
+				"STORE_NUM": 15,
+				"BRAND": "Gap",
+				"STORE_NAME": "OMIYA DAIEI",
+				"POSTAL_CODE": "330-0854",
+				"ADDRESS_LINE_1": "2-3 SAKURAGICHO",
+				"ADDRESS_LINE_2": "OMIYA-KU",
+				"ADDRESS_LINE_3": "SAITAMA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ダイエー大宮",
+				"ADDRESS_JA": "さいたま市大宮区桜木町2-3",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9905167,
+					35.6855833
+				]
+			},
+			"properties": {
+				"STORE_NUM": 16,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT TOKYO BAY",
+				"POSTAL_CODE": "273-8530",
+				"ADDRESS_LINE_1": "KITA KAN 1F, 2-1-1 HAMAMACHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUNABASHI-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと東京ベイ",
+				"ADDRESS_JA": "千葉県船橋市浜町2-1-1ららぽーと 北館 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7014972,
+					35.6899306
+				]
+			},
+			"properties": {
+				"STORE_NUM": 17,
+				"BRAND": "Gap",
+				"STORE_NAME": "SHINJUKU FLAGS",
+				"POSTAL_CODE": "160-0022",
+				"ADDRESS_LINE_1": "3-37-1 SHINJUKU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SHINJUKU-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "新宿フラッグス",
+				"ADDRESS_JA": "東京都新宿区新宿3-37-1新宿フラッグス 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6698194,
+					35.606575
+				]
+			},
+			"properties": {
+				"STORE_NUM": 18,
+				"BRAND": "Gap",
+				"STORE_NAME": "JIYUGAOKA",
+				"POSTAL_CODE": "158-0083",
+				"ADDRESS_LINE_1": "5-26-16  OKUSAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SETAGAYA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "自由が丘MAST",
+				"ADDRESS_JA": "東京都世田谷区奥沢5-26-16MASTビル 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.3995528,
+					33.5891389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 19,
+				"BRAND": "Gap",
+				"STORE_NAME": "FUKUOKA MITSUKOSHI",
+				"POSTAL_CODE": "810-0001",
+				"ADDRESS_LINE_1": "3F, 2-1-1 TENJIN",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "FUKUOKA-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "福岡三越",
+				"ADDRESS_JA": "福岡県福岡市中央区天神2-1-1福岡三越 3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5724528,
+					35.5444444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 20,
+				"BRAND": "Gap",
+				"STORE_NAME": "KOHOKU TOKYU",
+				"POSTAL_CODE": "224-0032",
+				"ADDRESS_LINE_1": "5-1 CHIGASAKICHUO",
+				"ADDRESS_LINE_2": "TSUZUKI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "港北東急",
+				"ADDRESS_JA": "神奈川県横浜市都筑区茅ヶ崎中央5-1港北東急百貨店S.C. 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4468306,
+					35.5432694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 21,
+				"BRAND": "Gap",
+				"STORE_NAME": "MACHIDA TOKYU TWINS",
+				"POSTAL_CODE": "194-0013",
+				"ADDRESS_LINE_1": "6-9-7 HARAMACHIDA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MACHIDA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "TOKYU まちだ",
+				"ADDRESS_JA": "東京都町田市原町田6-9-7TOKYU まちだ and YOU 4F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5770389,
+					35.7052167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 22,
+				"BRAND": "Gap",
+				"STORE_NAME": "KICHIJOJI",
+				"POSTAL_CODE": "180-0004",
+				"ADDRESS_LINE_1": "2-13 KICHIJOJI HONCHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MUSASHINO-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "吉祥寺",
+				"ADDRESS_JA": "東京都武蔵野市吉祥寺本町2-13",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9705361,
+					35.8633361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 23,
+				"BRAND": "Gap",
+				"STORE_NAME": "KASHIWA TAKASHIMAYA",
+				"POSTAL_CODE": "277-8666",
+				"ADDRESS_LINE_1": "3-16 SUEHIROCHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KASHIWA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "柏高島屋",
+				"ADDRESS_JA": "千葉県柏市末広町3-16柏高島屋 TX館 5F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6130861,
+					35.5991583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 24,
+				"BRAND": "Gap",
+				"STORE_NAME": "MIZONOKUCHI MARUI",
+				"POSTAL_CODE": "213-0001",
+				"ADDRESS_LINE_1": "1-4-1 MIZONOKUCHI",
+				"ADDRESS_LINE_2": "TAKATSU-KU",
+				"ADDRESS_LINE_3": "KAWASAKI-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "マルイファミリー溝口",
+				"ADDRESS_JA": "神奈川県川崎市高津区溝口1-4-1マルイファミリー溝口 4F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5588167,
+					35.4305472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 25,
+				"BRAND": "Gap",
+				"STORE_NAME": "HIGASHI-TOTSUKA",
+				"POSTAL_CODE": "244-8534",
+				"ADDRESS_LINE_1": "537-1 SHINANOCHO",
+				"ADDRESS_LINE_2": "TOTSUKA-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "オーロラモール東戸塚",
+				"ADDRESS_JA": "神奈川県横浜市戸塚区品濃町537-1オーロラモール東戸塚 4F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.4107194,
+					33.5898278
+				]
+			},
+			"properties": {
+				"STORE_NUM": 26,
+				"BRAND": "Gap",
+				"STORE_NAME": "HAKATA CANAL CITY",
+				"POSTAL_CODE": "812-0018",
+				"ADDRESS_LINE_1": "1-2 SUMIYOSHI",
+				"ADDRESS_LINE_2": "HAKATA-KU",
+				"ADDRESS_LINE_3": "FUKUOKA-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "キャナルシティ博多",
+				"ADDRESS_JA": "福岡県福岡市博多区住吉1-2キャナルシティ博多メガストアビル 3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6310083,
+					35.455275
+				]
+			},
+			"properties": {
+				"STORE_NUM": 27,
+				"BRAND": "Gap",
+				"STORE_NAME": "YOKOHAMA LANDMARK",
+				"POSTAL_CODE": "220-8172",
+				"ADDRESS_LINE_1": "2-2-1  MINATOMIRAI",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ランドマークプラザ",
+				"ADDRESS_JA": "神奈川県横浜市西区みなとみらい2-2-1 ",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7735306,
+					35.6278167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 28,
+				"BRAND": "Gap",
+				"STORE_NAME": "ODAIBA AQUA CITY",
+				"POSTAL_CODE": "135-0091",
+				"ADDRESS_LINE_1": "1-7-1 DAIBA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MINATO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "アクアシティお台場",
+				"ADDRESS_JA": "東京都港区台場1-7-1アクアシティお台場 3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8851556,
+					35.6346889
+				]
+			},
+			"properties": {
+				"STORE_NUM": 29,
+				"BRAND": "Gap",
+				"STORE_NAME": "MAIHAMA IKSPIARI",
+				"POSTAL_CODE": "279-8529",
+				"ADDRESS_LINE_1": "1-4 MAIHAMA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "URAYASU-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イクスピアリ",
+				"ADDRESS_JA": "千葉県浦安市舞浜1-4",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7758778,
+					35.7105472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 30,
+				"BRAND": "Gap",
+				"STORE_NAME": "UENO MARUI",
+				"POSTAL_CODE": "110-8502",
+				"ADDRESS_LINE_1": "6-15-1 UENO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TAITO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "マルイシティ上野",
+				"ADDRESS_JA": "東京都台東区上野6-15-1マルイシティ上野 B2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4802972,
+					35.6998389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 31,
+				"BRAND": "Gap",
+				"STORE_NAME": "KOKUBUNJI MARUI",
+				"POSTAL_CODE": "185-0021",
+				"ADDRESS_LINE_1": "3-20-3 MINAMI-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KOKUBUNJI-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "丸井国分寺",
+				"ADDRESS_JA": "東京都国分寺市南町3-20-3",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.1868,
+					35.2805861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 32,
+				"BRAND": "Gap",
+				"STORE_NAME": "ODAWARA DYNACITY",
+				"POSTAL_CODE": "250-0872",
+				"ADDRESS_LINE_1": "WEST 1F, 6-9-7 NAKAZATO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "ODAWARA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "小田原ダイナシティ",
+				"ADDRESS_JA": "神奈川県小田原市中里6-9-7ダイナシティ West 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1941278,
+					34.6923
+				]
+			},
+			"properties": {
+				"STORE_NUM": 33,
+				"BRAND": "Gap",
+				"STORE_NAME": "KOBE SANNOMIYA",
+				"POSTAL_CODE": "650-0021",
+				"ADDRESS_LINE_1": "1-7-5 SANNOMIYA, FUTURE PLAZA",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三宮",
+				"ADDRESS_JA": "兵庫県神戸市中央区三宮1-7-5フューチャープラザ",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.9069056,
+					35.1647361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 34,
+				"BRAND": "Gap",
+				"STORE_NAME": "NAGOYA SAKAE",
+				"POSTAL_CODE": "460-0008",
+				"ADDRESS_LINE_1": "3-27-13 SAKAE",
+				"ADDRESS_LINE_2": "NAKA-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "名古屋栄",
+				"ADDRESS_JA": "愛知県名古屋市中区栄3-27-13",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					132.3948083,
+					34.3735917
+				]
+			},
+			"properties": {
+				"STORE_NUM": 35,
+				"BRAND": "Gap",
+				"STORE_NAME": "HIROSHIMA ALPARK",
+				"POSTAL_CODE": "733-0834",
+				"ADDRESS_LINE_1": "2-26-1 KUSATSU SHINMACHI",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "HIROSHIMA-SHI",
+				"ADDRESS_LINE_4": "HIROSIMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "広島アルパーク",
+				"ADDRESS_JA": "広島県広島市西区草津新町2-26-1アルパーク新館 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					137.1635972,
+					34.9371056
+				]
+			},
+			"properties": {
+				"STORE_NUM": 36,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL OKAZAKI",
+				"POSTAL_CODE": "444-0840",
+				"ADDRESS_LINE_1": "38-5 SOTOYAMA, TOZAKI CHO",
+				"ADDRESS_LINE_2": " ",
+				"ADDRESS_LINE_3": "OKAZAKI-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン岡崎",
+				"ADDRESS_JA": "愛知県岡崎市戸崎町外山38-5イオン岡崎SC 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					129.8708889,
+					32.751675
+				]
+			},
+			"properties": {
+				"STORE_NUM": 37,
+				"BRAND": "Gap",
+				"STORE_NAME": "NAGASAKI",
+				"POSTAL_CODE": "850-0058",
+				"ADDRESS_LINE_1": "1-1 ONOUE-MACHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NAGASAKI-SHI",
+				"ADDRESS_LINE_4": "NAGASAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "アミュプラザ長崎",
+				"ADDRESS_JA": "長崎県長崎市尾上町1-1アミュプラザ長崎 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4148167,
+					35.6973889
+				]
+			},
+			"properties": {
+				"STORE_NUM": 38,
+				"BRAND": "Gap",
+				"STORE_NAME": "GRANDUO TACHIKAWA",
+				"POSTAL_CODE": "190-8554",
+				"ADDRESS_LINE_1": "3-2-1 SHIBASAKICHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TACHIKAWA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランデュオ立川",
+				"ADDRESS_JA": "東京都立川市柴崎町3-2-1グランデュオ立川 5F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5067722,
+					35.6023028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 39,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON SHINYURIGAOKA",
+				"POSTAL_CODE": "215-0021",
+				"ADDRESS_LINE_1": "2F, 1-19 KAMIASO",
+				"ADDRESS_LINE_2": "ASAO-KU",
+				"ADDRESS_LINE_3": "KAWASAKI-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "新百合ヶ丘ビブレ",
+				"ADDRESS_JA": "神奈川県川崎市麻生区上麻生1-19新百合ヶ丘ビブレ 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5582889,
+					34.8107528
+				]
+			},
+			"properties": {
+				"STORE_NUM": 40,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL IBARAKI",
+				"POSTAL_CODE": "567-0033",
+				"ADDRESS_LINE_1": "8-30 MATSUGAMOTO-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "IBARAKI-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン茨木ショッピングセンター",
+				"ADDRESS_JA": "大阪府茨木市松ヶ本町8-30イオン茨木ショッピングセンター 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.707625,
+					35.7313167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 41,
+				"BRAND": "Gap",
+				"STORE_NAME": "IKEBUKURO MARUI",
+				"POSTAL_CODE": "171-0021",
+				"ADDRESS_LINE_1": "3-28-13 NISHI IKEBUKURO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOSHIMA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "マルイシティ池袋",
+				"ADDRESS_JA": "東京都豊島区西池袋3-28-13マルイシティ池袋 B1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8136694,
+					35.6950444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 42,
+				"BRAND": "Gap",
+				"STORE_NAME": "KINSHICHO MARUI",
+				"POSTAL_CODE": "130-0022",
+				"ADDRESS_LINE_1": "3-9-10 KOTOBASHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SUMIDA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "丸井錦糸町",
+				"ADDRESS_JA": "東京都墨田区江東橋3-9-10丸井錦糸町 4F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3462333,
+					35.5947222
+				]
+			},
+			"properties": {
+				"STORE_NUM": 43,
+				"BRAND": "Gap",
+				"STORE_NAME": "HASHIMOTO MEWE",
+				"POSTAL_CODE": "229-1103",
+				"ADDRESS_LINE_1": "3-28-1 HASHIMOTO",
+				"ADDRESS_LINE_2": "MIDORI-KU",
+				"ADDRESS_LINE_3": "SAGAMIHARA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ミウィ橋本",
+				"ADDRESS_JA": "神奈川県相模原市緑区橋本3-28-1ミウィ橋本 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.9845139,
+					35.1607389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 44,
+				"BRAND": "Gap",
+				"STORE_NAME": "HOSHIGAOKA TERRACE",
+				"POSTAL_CODE": "464-0802",
+				"ADDRESS_LINE_1": "14-35 HOSHIGAOKA MOTOMACHI",
+				"ADDRESS_LINE_2": "CHIGUSA-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "星が丘テラス",
+				"ADDRESS_JA": "愛知県名古屋市千種区星が丘元町14-35星が丘テラス　1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.6574389,
+					33.1951861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 45,
+				"BRAND": "Gap",
+				"STORE_NAME": "PARK PLACE OITA",
+				"POSTAL_CODE": "870-0174",
+				"ADDRESS_LINE_1": "2-1 KOENDORI NISHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "OITA-SHI",
+				"ADDRESS_LINE_4": "OITA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "パークプレイス大分",
+				"ADDRESS_JA": "大分県大分市公園通り西2－1パークプレイス大分 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4940389,
+					34.8098194
+				]
+			},
+			"properties": {
+				"STORE_NUM": 46,
+				"BRAND": "Gap",
+				"STORE_NAME": "SENRI CHUO DAIMARU",
+				"POSTAL_CODE": "560-0082",
+				"ADDRESS_LINE_1": "1-1-1 SHINSENRIHIGASHI-MACHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOYONAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "千里大丸プラザ",
+				"ADDRESS_JA": "大阪府豊中市新千里東町1-1-1千里大丸プラザ 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.3524444,
+					43.068275
+				]
+			},
+			"properties": {
+				"STORE_NUM": 47,
+				"BRAND": "Gap",
+				"STORE_NAME": "SAPPORO",
+				"POSTAL_CODE": "060-0005",
+				"ADDRESS_LINE_1": "JR TOWER EAST 1F, 2-5 KITA GOJO NISHI",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "SAPPORO-SHI",
+				"ADDRESS_LINE_4": "HOKKAIDO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "札幌ステラプレイス",
+				"ADDRESS_JA": "北海道札幌市中央区北５条西2-5JRタワーイースト 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.515875,
+					34.4958806
+				]
+			},
+			"properties": {
+				"STORE_NUM": 48,
+				"BRAND": "Gap",
+				"STORE_NAME": "SENBOKU PANJO",
+				"POSTAL_CODE": "590-0015",
+				"ADDRESS_LINE_1": "HONKAN 3F, 1-3-1 CHAYAMADAI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SAKAI-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "泉北パンジョ",
+				"ADDRESS_JA": "大阪府堺市茶山台1-3-1泉北パンジョ 本館 3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.624525,
+					35.4646611
+				]
+			},
+			"properties": {
+				"STORE_NUM": 49,
+				"BRAND": "Gap",
+				"STORE_NAME": "YOKOHAMA MARUI",
+				"POSTAL_CODE": "220-0011",
+				"ADDRESS_LINE_1": "2-19-2 TAKASHIMA",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "マルイシティ横浜",
+				"ADDRESS_JA": "神奈川県横浜市西区高島2-19-12　マルイシティ　横浜",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.77355,
+					35.3484972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 50,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL KISOGAWA",
+				"POSTAL_CODE": "493-0001",
+				"ADDRESS_LINE_1": "25-1 MINAMIYATSUGAIKE,  KURODA",
+				"ADDRESS_LINE_2": "KISOGAWA-CHO",
+				"ADDRESS_LINE_3": "ICHINOMIYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "木曽川ダイヤモンド",
+				"ADDRESS_JA": "愛知県一宮市木曽川町黒田字南八ツケ池25-1イオンモール木曽川１F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8047417,
+					35.7508389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 51,
+				"BRAND": "Gap",
+				"STORE_NAME": "KITASENJYU MARUI",
+				"POSTAL_CODE": "120-8501",
+				"ADDRESS_LINE_1": "3-92 SENJU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "ADACHI-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "丸井北千住",
+				"ADDRESS_JA": "東京都足立区千住3-92丸井北千住 5Ｆ",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6353472,
+					35.8966528
+				]
+			},
+			"properties": {
+				"STORE_NUM": 52,
+				"BRAND": "Gap",
+				"STORE_NAME": "SAITAMA SHINTOSHIN",
+				"POSTAL_CODE": "330-0843",
+				"ADDRESS_LINE_1": "4-263-1 KISHIKI CHO",
+				"ADDRESS_LINE_2": "OMIYA-KU",
+				"ADDRESS_LINE_3": "SAITAMA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "コクーン新都心",
+				"ADDRESS_JA": "さいたま市大宮区吉敷町4丁目263-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.8719,
+					38.2599361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 53,
+				"BRAND": "Gap",
+				"STORE_NAME": "SENDAI KURAX",
+				"POSTAL_CODE": "980-0811",
+				"ADDRESS_LINE_1": "3-3-1 ICHIBAN-CHO",
+				"ADDRESS_LINE_2": "AOBA-KU",
+				"ADDRESS_LINE_3": "SENDAI-SHI",
+				"ADDRESS_LINE_4": "MIYAGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "クラックス仙台",
+				"ADDRESS_JA": "宮城県仙台市青葉区　一番町3-3-1クラックス",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.5418028,
+					31.5838167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 54,
+				"BRAND": "Gap",
+				"STORE_NAME": "KAGOSHIMA AMU PLAZA",
+				"POSTAL_CODE": "890-0053",
+				"ADDRESS_LINE_1": "1-1 CHUO-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KAGOSHIMA-SHI",
+				"ADDRESS_LINE_4": "KAGOSHIMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "アミュプラザ鹿児島",
+				"ADDRESS_JA": "鹿児島県鹿児島市中央町1-1アミュプラザ鹿児島 3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					137.6512056,
+					34.6968028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 55,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL HAMAMATSU",
+				"POSTAL_CODE": "432-8069",
+				"ADDRESS_LINE_1": "2-37-1, SHITORO",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "HAMAMATSU-SHI",
+				"ADDRESS_LINE_4": "SHIZUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "浜松イオン",
+				"ADDRESS_JA": "静岡県浜松市西区志都呂二丁目37番1号",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.6775,
+					34.8613444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 56,
+				"BRAND": "Gap",
+				"STORE_NAME": "KUZUHA KEIHAN",
+				"POSTAL_CODE": "573-1121",
+				"ADDRESS_LINE_1": "15-1 KUZUHAHANAZONO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "HIRAKATA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "くずはモール",
+				"ADDRESS_JA": "大阪府枚方市樟葉花園町15-1くずはモール",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.8756389,
+					33.8857833
+				]
+			},
+			"properties": {
+				"STORE_NUM": 57,
+				"BRAND": "Gap",
+				"STORE_NAME": "KOKURA RIVERWALK",
+				"POSTAL_CODE": "803-0812",
+				"ADDRESS_LINE_1": "1F, 1-1-1 MUROMACHI",
+				"ADDRESS_LINE_2": "KOKURAKITA-KU",
+				"ADDRESS_LINE_3": "KITAKYUSHU-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "リバーウォーク北九州",
+				"ADDRESS_JA": "福岡県北九州市小倉北区室町1-1-1リバーウォーク北九州デコシティ1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.4562083,
+					31.9229111
+				]
+			},
+			"properties": {
+				"STORE_NUM": 58,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL MIYAZAKI",
+				"POSTAL_CODE": "880-0834",
+				"ADDRESS_LINE_1": "862-1 EGUCHI",
+				"ADDRESS_LINE_2": "SHINBEPPU-CHO",
+				"ADDRESS_LINE_3": "MIYAZAKI-SHI",
+				"ADDRESS_LINE_4": "MIYAZAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン宮崎ショッピングセンター",
+				"ADDRESS_JA": "宮崎県宮崎市新別府町江口862-1イオン宮崎ショッピングセンター1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7070583,
+					35.8341861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 59,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL KAWAGUCHI",
+				"POSTAL_CODE": "333-0824",
+				"ADDRESS_LINE_1": "1-1-11 MAEKAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KAWAGUCHI-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール川口",
+				"ADDRESS_JA": "埼玉県川口市前川1-1-11",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5963944,
+					35.4085056
+				]
+			},
+			"properties": {
+				"STORE_NUM": 60,
+				"BRAND": "Gap",
+				"STORE_NAME": "KAMIOOKA KEIKYU",
+				"POSTAL_CODE": "233-0002",
+				"ADDRESS_LINE_1": "1-6-1 KAMIOOKANISHI",
+				"ADDRESS_LINE_2": "KONAN-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "京急上大岡",
+				"ADDRESS_JA": "神奈川県横浜市港南区上大岡西1-6-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1111861,
+					35.8026083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 61,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL CHIBA NEWT",
+				"POSTAL_CODE": "270-1392",
+				"ADDRESS_LINE_1": "3-2 CHUOKITA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "INZAI-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン千葉ニュータウン",
+				"ADDRESS_JA": "千葉県印西市中央北3-2",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7308472,
+					35.8913611
+				]
+			},
+			"properties": {
+				"STORE_NUM": 62,
+				"BRAND": "Gap",
+				"STORE_NAME": "URAWA AEON",
+				"POSTAL_CODE": "336-8760",
+				"ADDRESS_LINE_1": "5-50-1 MISONO",
+				"ADDRESS_LINE_2": "MIDORI-KU",
+				"ADDRESS_LINE_3": "SAITAMA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン浦和美園SC",
+				"ADDRESS_JA": "さいたま市緑区美園5丁目50番地1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					134.0502556,
+					34.3457972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 63,
+				"BRAND": "Gap",
+				"STORE_NAME": "TAKAMATSU MITSUKOSHI",
+				"POSTAL_CODE": "760-0029",
+				"ADDRESS_LINE_1": "TAKAMATSU MARUGAME ICHIBANGAI E-2F",
+				"ADDRESS_LINE_2": "1-1 MARUGAME-MACHI",
+				"ADDRESS_LINE_3": "TAKAMATSU-SHI",
+				"ADDRESS_LINE_4": "KAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "高松三越",
+				"ADDRESS_JA": "香川県高松市丸亀町1-1高松丸亀町壱番街　東館2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4235444,
+					34.7817611
+				]
+			},
+			"properties": {
+				"STORE_NUM": 64,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL ITAMI",
+				"POSTAL_CODE": "664-0847",
+				"ADDRESS_LINE_1": "1-1-1 FUJINOKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "ITAMI-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "伊丹ダイアモンドシティ・テラス",
+				"ADDRESS_JA": "兵庫県伊丹市藤ノ木1-1-1伊丹ダイアモンドシティ・テラス1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6967556,
+					35.5325417
+				]
+			},
+			"properties": {
+				"STORE_NUM": 65,
+				"BRAND": "Gap",
+				"STORE_NAME": "LAZONA KAWASAKI",
+				"POSTAL_CODE": "212-0013",
+				"ADDRESS_LINE_1": "3F, 72-1 HORIKAWA CHO",
+				"ADDRESS_LINE_2": "SAIWAI-KU",
+				"ADDRESS_LINE_3": "KAWASAKI-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ラゾーナ川崎プラザ",
+				"ADDRESS_JA": "神奈川県川崎市幸区堀川町72-1ラゾーナ川崎プラザ3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7927222,
+					35.655025
+				]
+			},
+			"properties": {
+				"STORE_NUM": 66,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT TOYOSU",
+				"POSTAL_CODE": "135-8614",
+				"ADDRESS_LINE_1": "2-4-9 TOYOSU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KOTO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "アーバンドックららぽーと豊洲",
+				"ADDRESS_JA": "東京都江東区豊洲2-4-9ららぽーと豊洲",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5662444,
+					34.7034778
+				]
+			},
+			"properties": {
+				"STORE_NUM": 67,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL TSURUMI",
+				"POSTAL_CODE": "538-0053",
+				"ADDRESS_LINE_1": "4-17-1 TSURUMI",
+				"ADDRESS_LINE_2": "TSURUMI-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール鶴見緑地",
+				"ADDRESS_JA": "大阪府大阪市鶴見区鶴見4-17-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6204639,
+					35.464375
+				]
+			},
+			"properties": {
+				"STORE_NUM": 68,
+				"BRAND": "Gap",
+				"STORE_NAME": "SOTETSU JOINUS",
+				"POSTAL_CODE": "220-0005",
+				"ADDRESS_LINE_1": "1-5-1 MINAMISAIWAI",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "横浜ジョイナス",
+				"ADDRESS_JA": "神奈川県横浜市西区南幸1-5-1 相鉄ジョイナス 4F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3850389,
+					35.7465806
+				]
+			},
+			"properties": {
+				"STORE_NUM": 69,
+				"BRAND": "Gap",
+				"STORE_NAME": "MUSASHI MURAYAMA",
+				"POSTAL_CODE": "208-0022",
+				"ADDRESS_LINE_1": "1-1-3 ENOKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MUSASHIMURAYAMA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "武蔵村山ダイヤモンドシティ",
+				"ADDRESS_JA": "東京都武蔵村山市榎1丁目1-3",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.0067306,
+					36.3908028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 70,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL TAKASAKI",
+				"POSTAL_CODE": "370-3521",
+				"ADDRESS_LINE_1": "1400 MUNADAKA-MACHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TAKASAKI-SHI",
+				"ADDRESS_LINE_4": "GUNMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール高崎",
+				"ADDRESS_JA": "群馬県高崎市棟高町1400番地 イオンモール高崎 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5663194,
+					35.517925
+				]
+			},
+			"properties": {
+				"STORE_NUM": 71,
+				"BRAND": "Gap",
+				"STORE_NAME": "YOKOHAMA LALAPORT",
+				"POSTAL_CODE": "224-0053",
+				"ADDRESS_LINE_1": "4035-1 IKONOBECHO",
+				"ADDRESS_LINE_2": "TSUZUKI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと横浜",
+				"ADDRESS_JA": "神奈川県横浜市都筑区池辺町4035-1 ららぽーと横浜 ノースモール 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.0562167,
+					37.9172306
+				]
+			},
+			"properties": {
+				"STORE_NUM": 72,
+				"BRAND": "Gap",
+				"STORE_NAME": "NIIGATA BANDAI",
+				"POSTAL_CODE": "950-0088",
+				"ADDRESS_LINE_1": "1-5-1 BANDAI",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "NIIGATA-SHI",
+				"ADDRESS_LINE_4": "NIIGATA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ラブラ万代",
+				"ADDRESS_JA": "新潟県新潟市中央区万代1-5-1ラブラ万代1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8250056,
+					35.8813778
+				]
+			},
+			"properties": {
+				"STORE_NUM": 73,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON LAKE TOWN",
+				"POSTAL_CODE": "343-0826",
+				"ADDRESS_LINE_1": "4-21-1  LAKETOWN KAZE",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KOSHIGAYA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンレイクタウン",
+				"ADDRESS_JA": "埼玉県越谷市レイクタウン4丁目21番地1イオンレイクタウンKAZE",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5591417,
+					35.5775361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 74,
+				"BRAND": "Gap",
+				"STORE_NAME": "TAMA PLAZA",
+				"POSTAL_CODE": "225-8535",
+				"ADDRESS_LINE_1": "1-1-2 UTSUKUSHIGAOKA",
+				"ADDRESS_LINE_2": "AOBA-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "たまプラーザ テラス",
+				"ADDRESS_JA": "神奈川県横浜市青葉区美しが丘1-1-2　1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7639917,
+					35.6724861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 75,
+				"BRAND": "Gap",
+				"STORE_NAME": "GINZA",
+				"POSTAL_CODE": "104-0061",
+				"ADDRESS_LINE_1": "4-2-11 GINZA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHUO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "Gapフラッグシップ銀座",
+				"ADDRESS_JA": "東京都中央区銀座4丁目2番11号",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					132.7160639,
+					33.7899167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 76,
+				"BRAND": "Gap",
+				"STORE_NAME": "EMIFULL MASAKI",
+				"POSTAL_CODE": "791-3120",
+				"ADDRESS_LINE_1": "850 TSUTSUI",
+				"ADDRESS_LINE_2": "MASAKI-CHO",
+				"ADDRESS_LINE_3": "IYO-GUN",
+				"ADDRESS_LINE_4": "EHIME",
+				"COUNTRY": "JP",
+				"MALL_NAME": "エミフルMASAKI",
+				"ADDRESS_JA": "愛媛県伊予郡松前町筒井850",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.7624028,
+					34.5054889
+				]
+			},
+			"properties": {
+				"STORE_NUM": 77,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL KASHIHARA",
+				"POSTAL_CODE": "634-0837",
+				"ADDRESS_LINE_1": "7-20-1 MAGARIKAWA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KASHIHARA-SHI",
+				"ADDRESS_LINE_4": "NARA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール橿原アルル",
+				"ADDRESS_JA": "奈良県橿原市曲川町7-20-1イオンモール橿原アルル 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.3875444,
+					34.9758722
+				]
+			},
+			"properties": {
+				"STORE_NUM": 78,
+				"BRAND": "Gap",
+				"STORE_NAME": "SHIN-SHIZUOKA STATIO",
+				"POSTAL_CODE": "420-8508",
+				"ADDRESS_LINE_1": "1-1-1 TAKAJO",
+				"ADDRESS_LINE_2": "AOI-KU",
+				"ADDRESS_LINE_3": "SHIZUOKA-SHI",
+				"ADDRESS_LINE_4": "SHIZUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "新静岡セノバ",
+				"ADDRESS_JA": "静岡県静岡市葵区鷹匠1-1-1新静岡セノバ3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4469,
+					35.3386694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 79,
+				"BRAND": "Gap",
+				"STORE_NAME": "TSUJIDO",
+				"POSTAL_CODE": "251-0041",
+				"ADDRESS_LINE_1": "1-3-1 TSUJIDOKANDAI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUJISAWA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "テラスモール湘南",
+				"ADDRESS_JA": "神奈川県藤沢市辻堂神台1丁目3-1  ",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8809611,
+					35.2245944
+				]
+			},
+			"properties": {
+				"STORE_NUM": 80,
+				"BRAND": "Gap",
+				"STORE_NAME": "MOZO WONDERCITY",
+				"POSTAL_CODE": "452-0817",
+				"ADDRESS_LINE_1": "40 FUTAKATACHO",
+				"ADDRESS_LINE_2": "NISHI",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "mozoワンダーシティ",
+				"ADDRESS_JA": "愛知県名古屋市西区二方町40",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.526775,
+					33.4809389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 81,
+				"BRAND": "Gap",
+				"STORE_NAME": "CHIKUSHINO AEON MALL",
+				"POSTAL_CODE": "818-0042",
+				"ADDRESS_LINE_1": "434-1 RYUMYOJI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHIKUSHINO-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール筑紫野",
+				"ADDRESS_JA": "福岡県筑紫野市立明寺434-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1112833,
+					36.0817861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 82,
+				"BRAND": "Gap",
+				"STORE_NAME": "TSUKUBA CREO Q'T",
+				"POSTAL_CODE": "305-0031",
+				"ADDRESS_LINE_1": "1-6-1 AZUMA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TSUKUBA-SHI",
+				"ADDRESS_LINE_4": "IBARAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "つくばQ't",
+				"ADDRESS_JA": "茨城県つくば市吾妻1-6-1つくばクレオスクエアQ't 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6279361,
+					35.6152944
+				]
+			},
+			"properties": {
+				"STORE_NUM": 83,
+				"BRAND": "Gap",
+				"STORE_NAME": "TAMAGAWA",
+				"POSTAL_CODE": "158-0094",
+				"ADDRESS_LINE_1": "MARRONIER COURT 2F, 2-27-5 TAMAGAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SETAGAYA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "玉川高島屋",
+				"ADDRESS_JA": "東京都世田谷区玉川2-27-5 マロニエコート2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9074361,
+					36.4934028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 84,
+				"BRAND": "Gap",
+				"STORE_NAME": "UTSUNOMIYA INTERPARK",
+				"POSTAL_CODE": "321-0118",
+				"ADDRESS_LINE_1": "4-1-3 INTER PARK",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "UTSUNOMIYA-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "宇都宮インターパーク",
+				"ADDRESS_JA": "栃木県宇都宮市インターパーク4-1-3",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8969833,
+					36.5604139
+				]
+			},
+			"properties": {
+				"STORE_NUM": 85,
+				"BRAND": "Gap",
+				"STORE_NAME": "UTSUNOMIYA",
+				"POSTAL_CODE": "321-0964",
+				"ADDRESS_LINE_1": "1-4-6 EKIMAEDORI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "UTSUNOMIYA-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ララスクエア宇都宮",
+				"ADDRESS_JA": "栃木県宇都宮市駅前通り1-4-6ララスクエア宇都宮2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.3608167,
+					34.7199556
+				]
+			},
+			"properties": {
+				"STORE_NUM": 86,
+				"BRAND": "Gap",
+				"STORE_NAME": "HANSHIN LALAPORT",
+				"POSTAL_CODE": "663-8178",
+				"ADDRESS_LINE_1": "8-1-100 KOSHIEN",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NISHINOMIYA-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと甲子園",
+				"ADDRESS_JA": "兵庫県西宮市甲子園8-1-100ららぽーと甲子園 1F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.7110056,
+					32.8023194
+				]
+			},
+			"properties": {
+				"STORE_NUM": 87,
+				"BRAND": "Gap",
+				"STORE_NAME": "KUMAMOTO TSURUYA",
+				"POSTAL_CODE": "860-8586",
+				"ADDRESS_LINE_1": "TSURUYA WING1-3F, 6-1 TEDORIHONCHO",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "KUMAMOTO-SHI",
+				"ADDRESS_LINE_4": "KUMAMOTO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "熊本鶴屋",
+				"ADDRESS_JA": "熊本市中央区手取本町6番1号　鶴屋百貨店ウイング館1-3F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5136694,
+					34.6452111
+				]
+			},
+			"properties": {
+				"STORE_NUM": 88,
+				"BRAND": "Gap",
+				"STORE_NAME": "ABENO KINTETSU HOOP",
+				"POSTAL_CODE": "545-0052",
+				"ADDRESS_LINE_1": "1-2-30 ABENOSUJI",
+				"ADDRESS_LINE_2": "ABENO-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "あべのHoop",
+				"ADDRESS_JA": "大阪府大阪市阿倍野区阿倍野筋1-2-30",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.0986667,
+					39.7115611
+				]
+			},
+			"properties": {
+				"STORE_NUM": 89,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL MORIOKA",
+				"POSTAL_CODE": "020-0148",
+				"ADDRESS_LINE_1": "4-7-1 MAEGATA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MORIOKA-SHI",
+				"ADDRESS_LINE_4": "IWATE",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン盛岡ショッピングセンター",
+				"ADDRESS_JA": "岩手県盛岡市前潟4-7-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9850056,
+					35.7016083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 90,
+				"BRAND": "Gap",
+				"STORE_NAME": "FUNABASHI TOBU BABY - Kids",
+				"POSTAL_CODE": "273-8567",
+				"ADDRESS_LINE_1": "7-1-1 HONCHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUNABASHI-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "船橋東武",
+				"ADDRESS_JA": "千葉県船橋市本町7-1-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1132889,
+					35.6115194
+				]
+			},
+			"properties": {
+				"STORE_NUM": 91,
+				"BRAND": "Gap",
+				"STORE_NAME": "CHIBA SOGO BABY- Kids",
+				"POSTAL_CODE": "260-8557",
+				"ADDRESS_LINE_1": "1000 SHINMACHI",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "CHIBA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "千葉そごう",
+				"ADDRESS_JA": "千葉県千葉市中央区新町1000番地",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4957,
+					34.7023972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 92,
+				"BRAND": "Gap",
+				"STORE_NAME": "UMEDA DAIMARU",
+				"POSTAL_CODE": "530-8202",
+				"ADDRESS_LINE_1": "3-1-1 UMEDA",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "梅田大丸",
+				"ADDRESS_JA": "大阪市北区梅田3-1-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6200722,
+					35.4659528
+				]
+			},
+			"properties": {
+				"STORE_NUM": 93,
+				"BRAND": "Gap",
+				"STORE_NAME": "Yokohama Takashimaya Baby",
+				"POSTAL_CODE": "220-8601",
+				"ADDRESS_LINE_1": "1-6-31 MINAMISAIWAI",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "横浜高島屋",
+				"ADDRESS_JA": "横浜市西区南幸1丁目6番31号",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3891694,
+					35.4560389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 94,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT EBINA",
+				"POSTAL_CODE": "243-0434",
+				"ADDRESS_LINE_1": "13-1 OUGICHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "EBINA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと海老名",
+				"ADDRESS_JA": "神奈川県海老名市扇町13-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3551583,
+					35.3363333
+				]
+			},
+			"properties": {
+				"STORE_NUM": 95,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT HIRATSUKA",
+				"POSTAL_CODE": "254-0031",
+				"ADDRESS_LINE_1": "10-1 AMANUMA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "HIRATSUKA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと湘南平塚",
+				"ADDRESS_JA": "神奈川県平塚市天沼10-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.5273972,
+					35.6230194
+				]
+			},
+			"properties": {
+				"STORE_NUM": 96,
+				"BRAND": "Gap",
+				"STORE_NAME": "AEON MALL KOFU SHOWA",
+				"POSTAL_CODE": "409-3852",
+				"ADDRESS_LINE_1": "1505-1 IKKUI",
+				"ADDRESS_LINE_2": "SHOWACHO",
+				"ADDRESS_LINE_3": "NAKAKOMA-GUN",
+				"ADDRESS_LINE_4": "YAMANASHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール甲府昭和",
+				"ADDRESS_JA": "山梨県中巨摩郡昭和町飯喰1505-1",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8825889,
+					35.1085722
+				]
+			},
+			"properties": {
+				"STORE_NUM": 97,
+				"BRAND": "Gap",
+				"STORE_NAME": "LALAPORT NAGOYA",
+				"POSTAL_CODE": "455-8501",
+				"ADDRESS_LINE_1": "2-3-2 KOMEI",
+				"ADDRESS_LINE_2": "KONAN-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと名古屋みなとアクルス ",
+				"ADDRESS_JA": "愛知県名古屋市港区港明2-3-2　ららぽーと名古屋みなとアクルス 2F",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5009389,
+					34.6743444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 98,
+				"BRAND": "Gap",
+				"STORE_NAME": "SHINSAIBASHI FS",
+				"POSTAL_CODE": "542-0085",
+				"ADDRESS_LINE_1": "1-9-4 SHINSAIBASHISUJI",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "心斎橋Factory Store",
+				"ADDRESS_JA": "大阪府大阪市中央区心斎橋筋1-9-4",
+				"BRAND_CODE": "Gap",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					132.3978194,
+					34.4098972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 99,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "GRAND OUT HIROSHIMA",
+				"POSTAL_CODE": "731-5102",
+				"ADDRESS_LINE_1": "4-1-1 ISHIUCHI HIGASHI",
+				"ADDRESS_LINE_2": "SAEKI-KU",
+				"ADDRESS_LINE_3": "HIROSHIMA-SHI",
+				"ADDRESS_LINE_4": "HIROSIMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ジ アウトレット",
+				"ADDRESS_JA": "広島県広島市佐伯区石内東4丁目1番1号",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.047525,
+					34.6261444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 100,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MARIN PIA KOBE TEMP",
+				"POSTAL_CODE": "655-0036",
+				"ADDRESS_LINE_1": "12-2 KAIGANDORI",
+				"ADDRESS_LINE_2": "TARUMI-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパークマリンピア神戸",
+				"ADDRESS_JA": "兵庫県神戸市垂水区海岸通12-2",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8812861,
+					36.6894694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 101,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MOP OYABE",
+				"POSTAL_CODE": "932-8538",
+				"ADDRESS_LINE_1": "972-1 NISHINAKANO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "OYABE-SHI",
+				"ADDRESS_LINE_4": "TOYAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 北陸小矢部店",
+				"ADDRESS_JA": "富山県小矢部市西中野972-1",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.0414583,
+					35.6473028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 102,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MOP MAKUHARI",
+				"POSTAL_CODE": "261-0021",
+				"ADDRESS_LINE_1": "2-6-1 HIBINO",
+				"ADDRESS_LINE_2": "MIHAMA-KU",
+				"ADDRESS_LINE_3": "CHIBA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 幕張",
+				"ADDRESS_JA": "千葉県千葉市美浜区ひび野2-6-1",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.8371639,
+					38.3414472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 103,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "SENDAI PREMIUM",
+				"POSTAL_CODE": "981-3204",
+				"ADDRESS_LINE_1": "6-1-1 TERAOKA",
+				"ADDRESS_LINE_2": "IZUMI-KU",
+				"ADDRESS_LINE_3": "SENDAI-SHI",
+				"ADDRESS_LINE_4": "MIYAGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "仙台泉プレミアム・アウトレット",
+				"ADDRESS_JA": "宮城県仙台市泉区寺岡6-1-1",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.2941722,
+					35.7142667
+				]
+			},
+			"properties": {
+				"STORE_NUM": 104,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "SHISUI PREMIUM OUTLT",
+				"POSTAL_CODE": "285-0912",
+				"ADDRESS_LINE_1": "2-4-1 IIZUMI ",
+				"ADDRESS_LINE_2": "SHISUI MACHI",
+				"ADDRESS_LINE_3": "INBA-GUN",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "酒々井プレミアム アウトレット",
+				"ADDRESS_JA": "千葉県印旛郡酒々井町飯積2-4-1 ",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.471275,
+					42.9709583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 105,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MOP KITAHIROSHIMA",
+				"POSTAL_CODE": "061-1278",
+				"ADDRESS_LINE_1": "3-7-6 OMAGARI SAIWAI-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KITAHIROSHIMA-SHI",
+				"ADDRESS_LINE_4": "HIROSIMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク札幌北広島",
+				"ADDRESS_JA": "北海道北広島市大曲幸町3-7-6三井アウトレットパーク 札幌北広島",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					137.1652278,
+					35.3407167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 106,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "TOKI PREMIUM OUTLET",
+				"POSTAL_CODE": "509-5127",
+				"ADDRESS_LINE_1": "1-2 TOKIGAOKA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOKI-SHI",
+				"ADDRESS_LINE_4": "GIFU",
+				"COUNTRY": "JP",
+				"MALL_NAME": "土岐プレミアム・アウトレット",
+				"ADDRESS_JA": "岐阜県土岐市土岐ヶ丘1-2土岐プレミアムアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1905111,
+					34.8579083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 107,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "SANDA PREMIUM OUTLET",
+				"POSTAL_CODE": "651-1515",
+				"ADDRESS_LINE_1": "7-3 KOZUDAI",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "神戸三田プレミアム･アウトレット",
+				"ADDRESS_JA": "兵庫県神戸市北区上津台7-3神戸三田プレミアムアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.5116389,
+					33.4064861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 108,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "TOSU OUTLET",
+				"POSTAL_CODE": "841-0005",
+				"ADDRESS_LINE_1": "8-1 YAYOIGAOKA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOSU-SHI",
+				"ADDRESS_LINE_4": "SAGA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "鳥栖プレミアム・アウトレット",
+				"ADDRESS_JA": "佐賀県鳥栖市弥生が丘8-1鳥栖プレミアムアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9915528,
+					36.966225
+				]
+			},
+			"properties": {
+				"STORE_NUM": 109,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "NASU GARDEN OUTLET",
+				"POSTAL_CODE": "329-3122",
+				"ADDRESS_LINE_1": "184-7 SHINOZAKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NASUSHIOBARA-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "那須ガーデンアウトレット",
+				"ADDRESS_JA": "栃木県那須塩原市塩野崎184-7那須ガーデンアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5783417,
+					36.3143528
+				]
+			},
+			"properties": {
+				"STORE_NUM": 110,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "SANO PREMIUM OUTLET",
+				"POSTAL_CODE": "327-0822",
+				"ADDRESS_LINE_1": "2058 KOSHINA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SANO-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "佐野プレミアムアウトレット",
+				"ADDRESS_JA": "栃木県佐野市腰名町2058佐野プレミアムアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.2369778,
+					35.9834694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 111,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "AMI PREMIUM OUTLET",
+				"POSTAL_CODE": "300-1161",
+				"ADDRESS_LINE_1": "4-1-1 YOSHIWARA",
+				"ADDRESS_LINE_2": "AMI-MACHI",
+				"ADDRESS_LINE_3": "INASHIKI-GUN",
+				"ADDRESS_LINE_4": "IBARAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "あみプレミアムアウトレット",
+				"ADDRESS_JA": "茨城県稲敷郡阿見町よしわら4-1-1 ",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.675125,
+					42.8111889
+				]
+			},
+			"properties": {
+				"STORE_NUM": 112,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "CHITOSE RERA OUTLET",
+				"POSTAL_CODE": "066-8765",
+				"ADDRESS_LINE_1": "1-2-1 KASHIWADAIMINAMI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHITOSE-SHI",
+				"ADDRESS_LINE_4": "HOKKAIDO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "千歳アウトレットモール",
+				"ADDRESS_JA": "北海道千歳市柏台南1-2-1千歳アウトレットモール",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.0994806,
+					35.058675
+				]
+			},
+			"properties": {
+				"STORE_NUM": 113,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "RYUO OUTLET",
+				"POSTAL_CODE": "520-2551",
+				"ADDRESS_LINE_1": "1178-694 KUZUSHI, SUNAYAMA",
+				"ADDRESS_LINE_2": "RYUO-CHO",
+				"ADDRESS_LINE_3": "GAMO-GUN",
+				"ADDRESS_LINE_4": "SHIGA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク滋賀竜王",
+				"ADDRESS_JA": "滋賀県蒲生郡竜王町大字薬師字砂山1178-694三井アウトレットパーク滋賀竜王 ",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.9898583,
+					38.2752389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 114,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "SENDAI PORT OUTLET",
+				"POSTAL_CODE": "983-0013",
+				"ADDRESS_LINE_1": "3-7-2 NAKANO",
+				"ADDRESS_LINE_2": "MIYAGINO-KU",
+				"ADDRESS_LINE_3": "SENDAI-SHI",
+				"ADDRESS_LINE_4": "MIYAGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク仙台港",
+				"ADDRESS_JA": "宮城県仙台市宮城野区中野3-7-2",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.32285,
+					33.5941139
+				]
+			},
+			"properties": {
+				"STORE_NUM": 115,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MARINOA CITY FUKUOKA",
+				"POSTAL_CODE": "819-0001",
+				"ADDRESS_LINE_1": "2-12-30 ODO",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "FUKUOKA-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "福岡マリノアシティ",
+				"ADDRESS_JA": "福岡県福岡市西区小戸2-12-30",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.6338972,
+					36.3553833
+				]
+			},
+			"properties": {
+				"STORE_NUM": 116,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "KARUIZAWA",
+				"POSTAL_CODE": "389-0102",
+				"ADDRESS_LINE_1": "KARUIZAWA",
+				"ADDRESS_LINE_2": "KARUIZAWA-MACHI",
+				"ADDRESS_LINE_3": "KITASAKU-GUN",
+				"ADDRESS_LINE_4": "NAGANO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "軽井沢・プリンスショッピングプラザ",
+				"ADDRESS_JA": "長野県北佐久郡軽井沢町軽井沢",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.7257722,
+					35.0294222
+				]
+			},
+			"properties": {
+				"STORE_NUM": 117,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "JAZZ DREAM NAGASHIMA",
+				"POSTAL_CODE": "511-1135",
+				"ADDRESS_LINE_1": "368 URAYASU, NAGASHIMA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KUWANA-SHI",
+				"ADDRESS_LINE_4": "MIE",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ファクトリーストア　ジャズドリーム長島",
+				"ADDRESS_JA": "三重県桑名市長島町浦安368",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					133.7620806,
+					34.60375
+				]
+			},
+			"properties": {
+				"STORE_NUM": 118,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MOP KURASHIKI",
+				"POSTAL_CODE": "710-0813",
+				"ADDRESS_LINE_1": "12-3 KOTOBUKI-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KURASHIKI-SHI",
+				"ADDRESS_LINE_4": "OKAYAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク　倉敷",
+				"ADDRESS_JA": "岡山県倉敷市寿町12-3",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					127.6570694,
+					26.1590694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 119,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "OKINAWA ASHIBINAA",
+				"POSTAL_CODE": "901-0225",
+				"ADDRESS_LINE_1": "1-188 TOYOSAKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOMIGUSUKU-SHI",
+				"ADDRESS_LINE_4": "OKINAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "沖縄アウトレットモール　あしびなー",
+				"ADDRESS_JA": "沖縄県豊見城市字豊崎1番地188",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9352917,
+					35.4346722
+				]
+			},
+			"properties": {
+				"STORE_NUM": 120,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "GAP OUT MOP KISARAZU",
+				"POSTAL_CODE": "292-0009",
+				"ADDRESS_LINE_1": "3-1-1 KANEDA HIGASHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KISARAZU-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク木更津",
+				"ADDRESS_JA": "千葉県木更津市金田東3-1-1",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.9489278,
+					35.3156417
+				]
+			},
+			"properties": {
+				"STORE_NUM": 121,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "GOTENBA OUTLET",
+				"POSTAL_CODE": "412-0023",
+				"ADDRESS_LINE_1": "1312 FUKUZAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "GOTEMBA-SHI",
+				"ADDRESS_LINE_4": "SHIZUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "御殿場プレミアム",
+				"ADDRESS_JA": "静岡県御殿場市深沢1312御殿場プレミアムアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.2937639,
+					34.4066472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 122,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "RINKU OUTLET",
+				"POSTAL_CODE": "598-0047",
+				"ADDRESS_LINE_1": "3-28 RINKU OURAIMINAMI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "IZUMISANO-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "りんくうプレミアム・アウトレット",
+				"ADDRESS_JA": "大阪府泉佐野市りんくう往来南3-28りんくうプレミアムアウトレット",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3773167,
+					35.6141889
+				]
+			},
+			"properties": {
+				"STORE_NUM": 123,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "MINAMIOSAWA MOP",
+				"POSTAL_CODE": "192-0364",
+				"ADDRESS_LINE_1": "1-600 MINAMIOSAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "HACHIOJI-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク多摩南大沢",
+				"ADDRESS_JA": "東京都八王子市南大沢1-600",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.3843861,
+					35.7650222
+				]
+			},
+			"properties": {
+				"STORE_NUM": 124,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "NARITA AIRPORT TEMP",
+				"POSTAL_CODE": "286-0116",
+				"ADDRESS_LINE_1": "1-1 SANNRIZUKA GORYO BOKUJYO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NARITA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "成田空港第一旅客ターミナル",
+				"ADDRESS_JA": "千葉県成田市三里塚字御料牧場1-1",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4702778,
+					35.5111278
+				]
+			},
+			"properties": {
+				"STORE_NUM": 125,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "GRANDBERRY PARK",
+				"POSTAL_CODE": "194-8589",
+				"ADDRESS_LINE_1": "3-3-1 TSURUMA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MACHIDA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランベリーパーク",
+				"ADDRESS_JA": "東京都町田市鶴間三丁目３－１",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8831,
+					35.6534361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 126,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "HOMES KASAI",
+				"POSTAL_CODE": "134-0084",
+				"ADDRESS_LINE_1": "9-3-6 HIGASHIKASAI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "EDOGAWA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ホームズ葛西",
+				"ADDRESS_JA": "東京都江戸川区東葛西9丁目3-6",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4400972,
+					35.8067778
+				]
+			},
+			"properties": {
+				"STORE_NUM": 127,
+				"BRAND": "Gap Outlet",
+				"STORE_NAME": "HOME'S TOKOROZAWA",
+				"POSTAL_CODE": "359-1105",
+				"ADDRESS_LINE_1": "1327  AOBADAI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOKOROZAWA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ホームズ所沢",
+				"ADDRESS_JA": "埼玉県所沢市青葉台1327番地",
+				"BRAND_CODE": "GO",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1111861,
+					35.8026083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 128,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "AEON MALL CHIBA NEWT",
+				"POSTAL_CODE": "270-1392 ",
+				"ADDRESS_LINE_1": "3-2 CHUO KITA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "INZAI-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "千葉ニュータウン",
+				"ADDRESS_JA": "千葉県印西市中央北3-2",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.5273972,
+					35.6230194
+				]
+			},
+			"properties": {
+				"STORE_NUM": 129,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "AEON MALL KOFU SHOWA",
+				"POSTAL_CODE": "409-3852",
+				"ADDRESS_LINE_1": "1505-1 IKKUI",
+				"ADDRESS_LINE_2": "SHOWACHO",
+				"ADDRESS_LINE_3": "NAKAKOMA-GUN",
+				"ADDRESS_LINE_4": "YAMANASHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール甲府昭和",
+				"ADDRESS_JA": "山梨県中巨摩郡昭和町飯喰1505-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.8404056,
+					35.1189583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 130,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "LALAPORT NUMAZU",
+				"POSTAL_CODE": "410-0302",
+				"ADDRESS_LINE_1": "301-3 TOARE, HIGASHI SHIIJI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NUMAZU-SHI",
+				"ADDRESS_LINE_4": "SHIZUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと沼津",
+				"ADDRESS_JA": "静岡県沼津市東椎路字東荒301番地3",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5582889,
+					34.8107528
+				]
+			},
+			"properties": {
+				"STORE_NUM": 131,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "AEON MALL IBARAKI",
+				"POSTAL_CODE": "567-0033",
+				"ADDRESS_LINE_1": "8-30 MATSUGAMOTO-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "IBARAKI-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール茨木",
+				"ADDRESS_JA": "大阪府茨木市松ケ本町8-30",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4375667,
+					34.6685472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 132,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "UNIVERSAL CITY WALK",
+				"POSTAL_CODE": "554-0024",
+				"ADDRESS_LINE_1": "3F/4F, 6-2-61 SHIMAYA",
+				"ADDRESS_LINE_2": "KONOHANA-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ユニバーサル・シティウォーク大阪",
+				"ADDRESS_JA": "大阪府大阪市此花区島屋6-2-61",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.5883944,
+					34.0479278
+				]
+			},
+			"properties": {
+				"STORE_NUM": 133,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "HOFU AEON TOWN",
+				"POSTAL_CODE": "747-0823",
+				"ADDRESS_LINE_1": "7-1 KANEBO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "HOFU-SHI",
+				"ADDRESS_LINE_4": "YAMAGUCHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンタウン防府",
+				"ADDRESS_JA": "山口県防府市鐘紡町7-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5287861,
+					35.7590139
+				]
+			},
+			"properties": {
+				"STORE_NUM": 134,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "HIGASHIKURUME IY",
+				"POSTAL_CODE": "203-0053",
+				"ADDRESS_LINE_1": "3-8-1 HONCHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "HIGASHIKURUME-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イトーヨーカドー・東久留米店",
+				"ADDRESS_JA": "東京都東久留米市本町3-8-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5299083,
+					34.6806667
+				]
+			},
+			"properties": {
+				"STORE_NUM": 135,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "MORINOMIYA Q'S MALL",
+				"POSTAL_CODE": "540-0003",
+				"ADDRESS_LINE_1": "2-1-70 MORINOMIYACHUO",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "もりのみやキューズモールBASE",
+				"ADDRESS_JA": "大阪府大阪市中央区森ノ宮中央2-1-70",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					127.7375944,
+					26.2008778
+				]
+			},
+			"properties": {
+				"STORE_NUM": 136,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "HAEBARU AEON SC",
+				"POSTAL_CODE": "901-1114",
+				"ADDRESS_LINE_1": "264 MIYAHIRA",
+				"ADDRESS_LINE_2": "HAEBARU",
+				"ADDRESS_LINE_3": "SHIMAJIRI-GUN",
+				"ADDRESS_LINE_4": "OKINAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン南風原店",
+				"ADDRESS_JA": "沖縄県島尻郡南風原町宮平264",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					137.7794528,
+					34.7975778
+				]
+			},
+			"properties": {
+				"STORE_NUM": 137,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "PLEHA WALK HAMAKITA",
+				"POSTAL_CODE": "434-8502",
+				"ADDRESS_LINE_1": "1200 KIBUNE",
+				"ADDRESS_LINE_2": "HAMAKITA-KU",
+				"ADDRESS_LINE_3": "HAMAMATSU-SHI",
+				"ADDRESS_LINE_4": "SHIZUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "プレ葉ウォーク浜北",
+				"ADDRESS_JA": "静岡県浜松市浜北区貴布祢1200",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					134.8284639,
+					34.9304417
+				]
+			},
+			"properties": {
+				"STORE_NUM": 138,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "KASAIHOJO AEON MALL",
+				"POSTAL_CODE": "675-2312",
+				"ADDRESS_LINE_1": "308-1 HOJO",
+				"ADDRESS_LINE_2": "HOJO-CHO ",
+				"ADDRESS_LINE_3": "KASAI-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール加西北条",
+				"ADDRESS_JA": "兵庫県加西市北条町北条308-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					131.0800556,
+					31.7352972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 139,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "MIYAKONOJO AEON MALL",
+				"POSTAL_CODE": "885-0023",
+				"ADDRESS_LINE_1": "4672-5 SAKAEMACHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MIYAKONOJO-SHI",
+				"ADDRESS_LINE_4": "MIYAZAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール都城駅前",
+				"ADDRESS_JA": "宮崎県都城市栄町4672-5",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8408806,
+					36.3217306
+				]
+			},
+			"properties": {
+				"STORE_NUM": 140,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "OYAMA AEON MALL",
+				"POSTAL_CODE": "323-0806",
+				"ADDRESS_LINE_1": "1467-1 NAKAKUKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "OYAMA-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール小山",
+				"ADDRESS_JA": "栃木県小山市中久喜1467-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8189278,
+					35.2612472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 141,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "LEAF WALK INAZAWA",
+				"POSTAL_CODE": "492-8601",
+				"ADDRESS_LINE_1": "7-1-2 NAGANO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "INAZAWA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "リーフウォーク稲沢",
+				"ADDRESS_JA": "愛知県稲沢市長野7-1-2",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1730889,
+					35.5440472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 142,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "AEON TOWN OYUMINO",
+				"POSTAL_CODE": "266-0033",
+				"ADDRESS_LINE_1": "5-37-1 OYIMINOMINAMI",
+				"ADDRESS_LINE_2": "MIDORI-KU",
+				"ADDRESS_LINE_3": "CHIBA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンタウンおゆみ野",
+				"ADDRESS_JA": "千葉県千葉市緑区おゆみ野南5丁目37-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8633917,
+					35.1036167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 143,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "AEON NAGOYA MINATO",
+				"POSTAL_CODE": "455-0055",
+				"ADDRESS_LINE_1": "2-1-6 SINAGAWA CHO",
+				"ADDRESS_LINE_2": "MINATO-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモール名古屋みなと",
+				"ADDRESS_JA": "愛知県名古屋市港区品川町2-1-6",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7687667,
+					35.8182944
+				]
+			},
+			"properties": {
+				"STORE_NUM": 144,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "HOME'S SOKA",
+				"POSTAL_CODE": "340-0032",
+				"ADDRESS_LINE_1": "2-1 ASUMA CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SOKA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "島忠草加舎人",
+				"ADDRESS_JA": "埼玉県草加市遊馬町2-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					133.785425,
+					34.2735639
+				]
+			},
+			"properties": {
+				"STORE_NUM": 145,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "YUME TOWN MARUGAME",
+				"POSTAL_CODE": "763-0055",
+				"ADDRESS_LINE_1": "150 SHINDEN-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MARUGAME-SHI",
+				"ADDRESS_LINE_4": "KAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ゆめタウン丸亀",
+				"ADDRESS_JA": "香川県丸亀市新田町150",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.9444417,
+					35.1227389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 146,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "PIERI MORIYAMA",
+				"POSTAL_CODE": "524-0101",
+				"ADDRESS_LINE_1": "2620-5 IMAHAMA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MORIYAMA-SHI",
+				"ADDRESS_LINE_4": "SHIGA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ピエリ守山",
+				"ADDRESS_JA": "滋賀県守山市今浜町2620-5",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.7558278,
+					34.98285
+				]
+			},
+			"properties": {
+				"STORE_NUM": 147,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "AEON MALL KYOTO",
+				"POSTAL_CODE": "601-8417",
+				"ADDRESS_LINE_1": "1 NISHIKUJO TORIIGUCHI-CHO",
+				"ADDRESS_LINE_2": "MINAMI-KU",
+				"ADDRESS_LINE_3": "KYOTO-SHI",
+				"ADDRESS_LINE_4": "KYOTO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンモールKYOTO",
+				"ADDRESS_JA": "京都府京都市南区西九条鳥居口町１イオンモールKYOTO 2F",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6103056,
+					36.0757083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 148,
+				"BRAND": "Gap Factory Store",
+				"STORE_NAME": "MALLAGE SHOBU",
+				"POSTAL_CODE": "346-0195",
+				"ADDRESS_LINE_1": "6005-1 SHOBU",
+				"ADDRESS_LINE_2": "CHOBU CHO",
+				"ADDRESS_LINE_3": "KUKI-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "モラージュ菖蒲店",
+				"ADDRESS_JA": "埼玉県久喜市菖蒲町菖蒲6005-1",
+				"BRAND_CODE": "GFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.49005,
+					33.6527583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 149,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "TORIUS HISAYAMA",
+				"POSTAL_CODE": "811-2502",
+				"ADDRESS_LINE_1": "1169-1 YAMADA, HISAYAMA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KASUYA-GUN",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "トリアス",
+				"ADDRESS_JA": "福岡県糟屋郡久山町大字山田1169-１トリアス",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4004639,
+					36.2940444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 150,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "OHTA AEON MALL",
+				"POSTAL_CODE": "373-0808",
+				"ADDRESS_LINE_1": "81 ISHIHARA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "OTA-SHI",
+				"ADDRESS_LINE_4": "GUNMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "the gap generation イオンモール 太田",
+				"ADDRESS_JA": "群馬県太田市石原町81イオンモール 太田 1F",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.0974,
+					36.3314278
+				]
+			},
+			"properties": {
+				"STORE_NUM": 151,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "MAEBASHI MINAMI",
+				"POSTAL_CODE": "379-2143",
+				"ADDRESS_LINE_1": "898 NIIBORI-MACHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MAEBASHI-SHI",
+				"ADDRESS_LINE_4": "GUNMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "パワーモール前橋南",
+				"ADDRESS_JA": "群馬県前橋市新堀町898",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5867889,
+					35.6589083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 152,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "HOME'S SENGAWA",
+				"POSTAL_CODE": "182-0003",
+				"ADDRESS_LINE_1": "2-1-7 WAKABA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHOFU-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "島忠ホームズ仙川",
+				"ADDRESS_JA": "東京都調布市若葉町2-1-7",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6217389,
+					35.9327861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 153,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "OMIYA STELLAR TOWN",
+				"POSTAL_CODE": "331-0812",
+				"ADDRESS_LINE_1": "1-854-1 MIYAHARA CHO",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "SAITAMA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ステラタウン大宮",
+				"ADDRESS_JA": "さいたま市北区宮原町1丁目854-1",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.8115194,
+					33.8704083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 154,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "AEON YAHATA HIGASHI",
+				"POSTAL_CODE": "805-0071",
+				"ADDRESS_LINE_1": "3-2-102 HIGASHIDA",
+				"ADDRESS_LINE_2": "YAHATA HIGASHI-KU",
+				"ADDRESS_LINE_3": "KITAKYUSHU-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオン八幡東",
+				"ADDRESS_JA": "福岡県北九州市八幡東区東田3丁目2-102",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.1177333,
+					35.7211417
+				]
+			},
+			"properties": {
+				"STORE_NUM": 155,
+				"BRAND": "The gap generation",
+				"STORE_NAME": "FULULU GARDEN YACHIY",
+				"POSTAL_CODE": "276-0029",
+				"ADDRESS_LINE_1": "1-4-1 MURAKAMI MINAMI",
+				"ADDRESS_LINE_2": " ",
+				"ADDRESS_LINE_3": "YACHIYO-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "フルルガーデン　八千代",
+				"ADDRESS_JA": "千葉県八千代市村上南1-4-1",
+				"BRAND_CODE": "GG",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8825889,
+					35.1085722
+				]
+			},
+			"properties": {
+				"STORE_NUM": 156,
+				"BRAND": "Gap Fit",
+				"STORE_NAME": "LALAPORT NAGOYA",
+				"POSTAL_CODE": "455-8501",
+				"ADDRESS_LINE_1": "2-3-2 KOMEI",
+				"ADDRESS_LINE_2": "KONAN-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと名古屋みなとアクルス ",
+				"ADDRESS_JA": "愛知県名古屋市港区港明2-3-2　ららぽーと名古屋みなとアクルス 2F",
+				"BRAND_CODE": "Fit",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1940944,
+					34.6925111
+				]
+			},
+			"properties": {
+				"STORE_NUM": 157,
+				"BRAND": "Gap Fit",
+				"STORE_NAME": "KOBE MARUI FIT (TEMPORARY)",
+				"POSTAL_CODE": "650-0021",
+				"ADDRESS_LINE_1": "1-7-2 SANNOMIYA-CHO",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "神戸丸井",
+				"ADDRESS_JA": "兵庫県神戸市中央区三宮町1-7-2",
+				"BRAND_CODE": "Fit",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7759417,
+					35.6254028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 158,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "DIVERCITY TOKYO",
+				"POSTAL_CODE": "135-0064",
+				"ADDRESS_LINE_1": "1-1-10 AOMI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KOTO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ダイバーシティ東京プラザ",
+				"ADDRESS_JA": "東京都江東区青海1-1-10",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1827417,
+					34.6793028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 159,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "KOBE HARBORLAND UMIE",
+				"POSTAL_CODE": "650-0044",
+				"ADDRESS_LINE_1": "1-7-2 HIGASHIKAWASAKI CHO",
+				"ADDRESS_LINE_2": "CHUO-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "神戸ハーバーランドumie",
+				"ADDRESS_JA": "神戸市中央区東川崎町1-7-2",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.8250056,
+					35.8813778
+				]
+			},
+			"properties": {
+				"STORE_NUM": 160,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "AEON LAKE TOWN",
+				"POSTAL_CODE": "343-0826",
+				"ADDRESS_LINE_1": "4-21-1  LAKETOWN KAZE",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KOSHIGAYA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "イオンレイクタウン",
+				"ADDRESS_JA": "埼玉県越谷市レイクタウン4丁目21番地1イオンレイクタウンKAZE",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.626825,
+					35.614775
+				]
+			},
+			"properties": {
+				"STORE_NUM": 161,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "TAMAGAWA TAKASHIMAYA",
+				"POSTAL_CODE": "158-0094",
+				"ADDRESS_LINE_1": "MINAMI KAN B1F, 3-17-1 TAMAGAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SETAGAYA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "玉川高島屋S・C",
+				"ADDRESS_JA": "東京都世田谷区玉川3-17-1玉川髙島屋S･C 南館 B1F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7643361,
+					35.6825333
+				]
+			},
+			"properties": {
+				"STORE_NUM": 162,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "SHIN-MARUNOUCHI",
+				"POSTAL_CODE": "100-6503",
+				"ADDRESS_LINE_1": "3/4F, 1-5-1 MARUNOUCHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHIYODA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "丸の内",
+				"ADDRESS_JA": "東京都千代田区丸の内1-5-1新丸の内ビル 3F･4F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9905167,
+					35.6855833
+				]
+			},
+			"properties": {
+				"STORE_NUM": 163,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "LALAPORT TOKYO BAY",
+				"POSTAL_CODE": "273-8530",
+				"ADDRESS_LINE_1": "MINAMI KAN 1F, 2-1-1 HAMACHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUNABASHI-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと東京ベイ",
+				"ADDRESS_JA": "千葉県船橋市浜町2-1-1ららぽーと 南館 1F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7138972,
+					35.6432194
+				]
+			},
+			"properties": {
+				"STORE_NUM": 164,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "EBISU MITSUKOSHI",
+				"POSTAL_CODE": "150-6090",
+				"ADDRESS_LINE_1": "4-20-7 EBISU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SHIBUYA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "恵比寿三越",
+				"ADDRESS_JA": "東京都渋谷区恵比寿4-20-7恵比寿三越 B1F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7103194,
+					35.7300056
+				]
+			},
+			"properties": {
+				"STORE_NUM": 165,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "IKEBUKURO TOBU",
+				"POSTAL_CODE": "171-8512",
+				"ADDRESS_LINE_1": "1-1-25 NISHI IKEBUKURO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOSHIMA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "池袋東武",
+				"ADDRESS_JA": "東京都豊島区西池袋1-1-25東武百貨店　池袋店 3F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.766775,
+					35.6818306
+				]
+			},
+			"properties": {
+				"STORE_NUM": 166,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "TOKYO DAIMARU",
+				"POSTAL_CODE": "100-0005",
+				"ADDRESS_LINE_1": "Daimaru 5F, 1-9-1 MARUNOUCHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHIYODA-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "大丸東京",
+				"ADDRESS_JA": "東京都千代田区丸の内1-9-1大丸東京店5F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4948528,
+					34.7039583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 167,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "GRAND FRONT OSAKA",
+				"POSTAL_CODE": "530-0011",
+				"ADDRESS_LINE_1": "SOUTH 4F, 4-20 OFUKA-CHO",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランフロント大阪",
+				"ADDRESS_JA": "大阪市北区大深町4-20（南館）",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.5018111,
+					34.6618167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 168,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "NAMBA PARKS",
+				"POSTAL_CODE": "556-0011",
+				"ADDRESS_LINE_1": "2-10-70 NAMBANAKA",
+				"ADDRESS_LINE_2": "NANIWA-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "なんばパークス",
+				"ADDRESS_JA": "大阪市浪速区難波中2-10-70",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4161167,
+					35.7125333
+				]
+			},
+			"properties": {
+				"STORE_NUM": 169,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "LALAPORT TACHIKAWA",
+				"POSTAL_CODE": "190-0015",
+				"ADDRESS_LINE_1": "935-1 IZUMICHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TACHIKAWA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと立川立飛",
+				"ADDRESS_JA": "東京都立川市泉町935-1",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7040639,
+					35.6909361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 170,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "SHINJUKU MARUI",
+				"POSTAL_CODE": "160-0022",
+				"ADDRESS_LINE_1": "3-30-13 SHINJUKU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SHINJUKU-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "新宿マルイ本館",
+				"ADDRESS_JA": "東京都新宿区新宿3-30-13本館3階",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.3600722,
+					34.7438028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 171,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "NISHINOMIYA",
+				"POSTAL_CODE": "663-8204",
+				"ADDRESS_LINE_1": "14-2 TAKAMATSU-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NISHINOMIYA-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "阪急西宮ガーデンズ",
+				"ADDRESS_JA": "兵庫県西宮市高松町14-2阪急西宮ガーデンズ 南モール 242区画",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4469,
+					35.3386694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 172,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "TERRACE MALL SHONAN",
+				"POSTAL_CODE": "251-0041",
+				"ADDRESS_LINE_1": "1-3-1 TSUJIDOKANDAI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUJISAWA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "テラスモール湘南",
+				"ADDRESS_JA": "神奈川県藤沢市辻堂神台1丁目3-1",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.7619806,
+					35.0038611
+				]
+			},
+			"properties": {
+				"STORE_NUM": 173,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "KYOTO DAIMARU",
+				"POSTAL_CODE": "600-8511",
+				"ADDRESS_LINE_1": "79 TACHIURI NISHIMACHI",
+				"ADDRESS_LINE_2": "SHIJO-DORI TAKAKURA NISHIIRU",
+				"ADDRESS_LINE_3": "KYOTO-SHI",
+				"ADDRESS_LINE_4": "KYOTO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "大丸京都",
+				"ADDRESS_JA": "京都府京都市下京区四条通高倉西入立売西町79大丸京都 3F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.4957,
+					34.7023972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 174,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "UMEDA DAIMARU",
+				"POSTAL_CODE": "530-8202",
+				"ADDRESS_LINE_1": "3-1-1 UMEDA",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "OSAKA-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "梅田大丸",
+				"ADDRESS_JA": "大阪市北区梅田3-1-1大丸梅田店6F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7927222,
+					35.655025
+				]
+			},
+			"properties": {
+				"STORE_NUM": 175,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "LALAPORT TOYOSU",
+				"POSTAL_CODE": "135-8614",
+				"ADDRESS_LINE_1": "2-4-9 TOYOSU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KOTO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "アーバンドックららぽーと豊洲",
+				"ADDRESS_JA": "東京都江東区豊洲2-4-9ららぽーと豊洲",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.9854722,
+					35.1610556
+				]
+			},
+			"properties": {
+				"STORE_NUM": 176,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "HOSHIGAOKA TERRACE",
+				"POSTAL_CODE": "464-0802",
+				"ADDRESS_LINE_1": "16-50 HOSHIGAOKA MOTOMACHI",
+				"ADDRESS_LINE_2": "CHIGUSA-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "名古屋星が丘テラス",
+				"ADDRESS_JA": "愛知県名古屋市千種区星が丘元町16-50 星が丘テラス",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7651972,
+					35.6737361
+				]
+			},
+			"properties": {
+				"STORE_NUM": 177,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "MARRONNIERGATE GINZA",
+				"POSTAL_CODE": "104-0061",
+				"ADDRESS_LINE_1": "3-2-1 GINZA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHUO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "マロニエゲート銀座",
+				"ADDRESS_JA": "東京都中央区銀座3-2-1",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6601583,
+					35.573775
+				]
+			},
+			"properties": {
+				"STORE_NUM": 178,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "MUSASHIKOSUGI",
+				"POSTAL_CODE": "211-0004",
+				"ADDRESS_LINE_1": "3-1135-1 SHINMARUKO HIGASHI",
+				"ADDRESS_LINE_2": "NAKAHARA-KU",
+				"ADDRESS_LINE_3": "KAWASAKI-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランツリー武蔵小杉",
+				"ADDRESS_JA": "神奈川県川崎市中原区新丸子東3-1135-1",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5483278,
+					35.8597972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 179,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "LALAPORT FUJIMI",
+				"POSTAL_CODE": "354-8560",
+				"ADDRESS_LINE_1": "1-1313 YAMAMURO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "FUJIMI-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと富士見",
+				"ADDRESS_JA": "埼玉県富士見市山室一丁目1313番",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6995167,
+					35.691325
+				]
+			},
+			"properties": {
+				"STORE_NUM": 180,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "SHINJUKU ODAKYU DS",
+				"POSTAL_CODE": "160-8001",
+				"ADDRESS_LINE_1": "1-1-3 NISHI SHINJUKU",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SHINJUKU-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "小田急百貨店新宿",
+				"ADDRESS_JA": "東京都新宿区西新宿1-1-3本館4階",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6310083,
+					35.455275
+				]
+			},
+			"properties": {
+				"STORE_NUM": 181,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "LANDMARK PLAZA",
+				"POSTAL_CODE": "220-8172",
+				"ADDRESS_LINE_1": "2-2-1  MINATOMIRAI",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "YOKOHAMA-SHI",
+				"ADDRESS_LINE_4": "KANAGAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "横浜・ランドマークプラザ",
+				"ADDRESS_JA": "神奈川県横浜市西区みなとみらい2-2-1 ",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.7746583,
+					35.6826
+				]
+			},
+			"properties": {
+				"STORE_NUM": 182,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "COREDO NIHONBASHI",
+				"POSTAL_CODE": "103-0027",
+				"ADDRESS_LINE_1": "1-4-1NIHONBASHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "CHUO-KU",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "コレド日本橋",
+				"ADDRESS_JA": "東京都中央区日本橋1-4-1コレド日本橋",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8825889,
+					35.1085722
+				]
+			},
+			"properties": {
+				"STORE_NUM": 183,
+				"BRAND": "Banana Republic ",
+				"STORE_NAME": "LALAPORT NAGOYA",
+				"POSTAL_CODE": "455-8501",
+				"ADDRESS_LINE_1": "2-3-2 KOMEI",
+				"ADDRESS_LINE_2": "KONAN-KU",
+				"ADDRESS_LINE_3": "NAGOYA-SHI",
+				"ADDRESS_LINE_4": "AICHI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ららぽーと名古屋みなとアクルス ",
+				"ADDRESS_JA": "愛知県名古屋市港区港明2-3-2　ららぽーと名古屋みなとアクルス 2F",
+				"BRAND_CODE": "BR",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.32285,
+					33.5941139
+				]
+			},
+			"properties": {
+				"STORE_NUM": 184,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MARINOA CITY FUKUOKA",
+				"POSTAL_CODE": "819-0001",
+				"ADDRESS_LINE_1": "2-12-30 ODO",
+				"ADDRESS_LINE_2": "NISHI-KU",
+				"ADDRESS_LINE_3": "FUKUOKA-SHI",
+				"ADDRESS_LINE_4": "FUKUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "福岡マリノアシティ",
+				"ADDRESS_JA": "福岡県福岡市西区小戸2-12-30",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					132.3978194,
+					34.4098972
+				]
+			},
+			"properties": {
+				"STORE_NUM": 185,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "THE OUTLETS HIROSHIMA",
+				"POSTAL_CODE": "731-5102",
+				"ADDRESS_LINE_1": "4-1-1 ISHIUCHI HIGASHI",
+				"ADDRESS_LINE_2": "SAEKI-KU",
+				"ADDRESS_LINE_3": "HIROSHIMA-SHI",
+				"ADDRESS_LINE_4": "HIROSIMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ジ アウトレット広島",
+				"ADDRESS_JA": "広島県広島市佐伯区石内東4丁目1番1号",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.9489278,
+					35.3156417
+				]
+			},
+			"properties": {
+				"STORE_NUM": 186,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "GOTENBA PREM OUTLET",
+				"POSTAL_CODE": "412-0023",
+				"ADDRESS_LINE_1": "1312 FUKAZAWA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "GOTEMBA-SHI",
+				"ADDRESS_LINE_4": "SHIZUOKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "御殿場プレミアム・アウトレット",
+				"ADDRESS_JA": "静岡県御殿場市深沢1312御殿場プレミアム・アウトレット",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1905111,
+					34.8579083
+				]
+			},
+			"properties": {
+				"STORE_NUM": 187,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "SANDA PREMIUM OUTLET",
+				"POSTAL_CODE": "651-1515",
+				"ADDRESS_LINE_1": "7-3 KOZUDAI",
+				"ADDRESS_LINE_2": "KITA-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "神戸三田プレミアム･アウトレット",
+				"ADDRESS_JA": "兵庫県神戸市北区上津台7-3神戸三田プレミアム･アウトレット",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.7257722,
+					35.0294222
+				]
+			},
+			"properties": {
+				"STORE_NUM": 188,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "JAZZ DREAM NAGASHIMA",
+				"POSTAL_CODE": "511-1135",
+				"ADDRESS_LINE_1": "368 URAYASU, NAGASHIMA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KUWANA-SHI",
+				"ADDRESS_LINE_4": "MIE",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ファクトリーストア　ジャズドリーム長島",
+				"ADDRESS_JA": "三重県桑名市長島町浦安368",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3804833,
+					35.8103583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 189,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP IRUMA",
+				"POSTAL_CODE": "358-0014",
+				"ADDRESS_LINE_1": "3169-1 MIYADERA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "IRUMA-SHI",
+				"ADDRESS_LINE_4": "SAITAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "ファクトリーストア入間",
+				"ADDRESS_JA": "埼玉県入間市宮寺3169-1三井アウトレットパーク入間",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5783417,
+					36.3143528
+				]
+			},
+			"properties": {
+				"STORE_NUM": 190,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "SANO PREMIUM OUTLET",
+				"POSTAL_CODE": "327-0822",
+				"ADDRESS_LINE_1": "2058 KOSHINA-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "SANO-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "佐野プレミアムアウトレット",
+				"ADDRESS_JA": "栃木県佐野市腰名町2058佐野プレミアムアウトレット",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					137.1652278,
+					35.3407167
+				]
+			},
+			"properties": {
+				"STORE_NUM": 191,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "TOKI PREMIUM OUTLET",
+				"POSTAL_CODE": "509-5127",
+				"ADDRESS_LINE_1": "1-2 TOKIGAOKA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOKI-SHI",
+				"ADDRESS_LINE_4": "GIFU",
+				"COUNTRY": "JP",
+				"MALL_NAME": "土岐プレミアム・アウトレット",
+				"ADDRESS_JA": "岐阜県土岐市土岐ヶ丘1-2土岐プレミアムアウトレット",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.5116389,
+					33.4064861
+				]
+			},
+			"properties": {
+				"STORE_NUM": 192,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "TOSU PREMIUM OUTLETS",
+				"POSTAL_CODE": "841-0005",
+				"ADDRESS_LINE_1": "8-1 YAYOIGAOKA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOSU-SHI",
+				"ADDRESS_LINE_4": "SAGA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "鳥栖プレミアム・アウトレット",
+				"ADDRESS_JA": "佐賀県鳥栖市弥生が丘8-1",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					133.7620806,
+					34.60375
+				]
+			},
+			"properties": {
+				"STORE_NUM": 193,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP KURASHIKI",
+				"POSTAL_CODE": "710-0813",
+				"ADDRESS_LINE_1": "12-3 KOTOBUKI-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KURASHIKI-SHI",
+				"ADDRESS_LINE_4": "OKAYAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク　倉敷",
+				"ADDRESS_JA": "岡山県倉敷市寿町12-3 ",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.2369778,
+					35.9834694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 194,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "AMI PREMIUM OUTLETS",
+				"POSTAL_CODE": "300-1161",
+				"ADDRESS_LINE_1": "4-1-1 YOSHIWARA",
+				"ADDRESS_LINE_2": "AMI-MACHI",
+				"ADDRESS_LINE_3": "INASHIKI-GUN",
+				"ADDRESS_LINE_4": "IBARAKI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "あみプレミアムアウトレット",
+				"ADDRESS_JA": "茨城県稲敷郡阿見町よしわら4-1-1 ",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9352917,
+					35.4346722
+				]
+			},
+			"properties": {
+				"STORE_NUM": 195,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP KISARAZU",
+				"POSTAL_CODE": "292-0009",
+				"ADDRESS_LINE_1": "3-1-1 KANEDA HIGASHI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KISARAZU-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク木更津",
+				"ADDRESS_JA": "千葉県木更津市金田東3-1-1",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.9915528,
+					36.966225
+				]
+			},
+			"properties": {
+				"STORE_NUM": 196,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "NASU GARDEN OUTLET",
+				"POSTAL_CODE": "329-3122",
+				"ADDRESS_LINE_1": "184-7 SHIONOZAKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "NASUSHIOBARA-SHI",
+				"ADDRESS_LINE_4": "TOCHIGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "那須ガーデンアウトレット",
+				"ADDRESS_JA": "栃木県那須塩原市塩野崎184-7那須ガーデンアウトレット",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.2937639,
+					34.4066472
+				]
+			},
+			"properties": {
+				"STORE_NUM": 197,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "RINKU PREM OUTLET",
+				"POSTAL_CODE": "598-0047",
+				"ADDRESS_LINE_1": "3-28 RINKU OURAIMINAMI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "IZUMISANO-SHI",
+				"ADDRESS_LINE_4": "OSAKA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "りんくうプレミアム・アウトレット",
+				"ADDRESS_JA": "大阪府泉佐野市りんくう往来南3-28りんくうプレミアムアウトレット",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.047525,
+					34.6261444
+				]
+			},
+			"properties": {
+				"STORE_NUM": 198,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP MARINE PIA KOBE",
+				"POSTAL_CODE": "655-0036",
+				"ADDRESS_LINE_1": "12-2 KAIGANDORI",
+				"ADDRESS_LINE_2": "TARUMI-KU",
+				"ADDRESS_LINE_3": "KOBE-SHI",
+				"ADDRESS_LINE_4": "HYOGO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパークマリンピア神戸",
+				"ADDRESS_JA": "兵庫県神戸市垂水区海岸通12-2",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.2941722,
+					35.7142667
+				]
+			},
+			"properties": {
+				"STORE_NUM": 199,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "SHISUI PREMIUM OUTLT",
+				"POSTAL_CODE": "285-0912",
+				"ADDRESS_LINE_1": "2-4-1 IIZUMI ",
+				"ADDRESS_LINE_2": "SHISUI MACHI",
+				"ADDRESS_LINE_3": "INBA-GUN",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "酒々井プレミアム アウトレット",
+				"ADDRESS_JA": "千葉県印旛郡酒々井町飯積2-4-1 ",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.0994806,
+					35.058675
+				]
+			},
+			"properties": {
+				"STORE_NUM": 200,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP SHIGA RYUO",
+				"POSTAL_CODE": "520-2551",
+				"ADDRESS_LINE_1": "1178-694 KUZUSHI, SUNAYAMA",
+				"ADDRESS_LINE_2": "RYUO-CHO",
+				"ADDRESS_LINE_3": "GAMO-GUN",
+				"ADDRESS_LINE_4": "SHIGA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 滋賀竜王",
+				"ADDRESS_JA": "滋賀県蒲生郡竜王町大字薬師字砂山1178-694三井アウトレットパーク滋賀竜王 ",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.9898583,
+					38.2752389
+				]
+			},
+			"properties": {
+				"STORE_NUM": 201,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "SENDAI PORT OUTLET",
+				"POSTAL_CODE": "983-0013",
+				"ADDRESS_LINE_1": "3-7-2 NAKANO",
+				"ADDRESS_LINE_2": "MIYAGINO-KU",
+				"ADDRESS_LINE_3": "SENDAI-SHI",
+				"ADDRESS_LINE_4": "MIYAGI",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 仙台港",
+				"ADDRESS_JA": "宮城県仙台市宮城野区中野3-7-2",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					141.471275,
+					42.9709583
+				]
+			},
+			"properties": {
+				"STORE_NUM": 202,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP KITAHIROSHIMA",
+				"POSTAL_CODE": "061-1278",
+				"ADDRESS_LINE_1": "3-7-6 OMAGARI SAIWAI-CHO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "KITAHIROSHIMA-SHI",
+				"ADDRESS_LINE_4": "HIROSIMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 札幌北広島",
+				"ADDRESS_JA": "北海道北広島市大曲幸町3-7-6三井アウトレットパーク 札幌北広島",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.6338972,
+					36.3553833
+				]
+			},
+			"properties": {
+				"STORE_NUM": 203,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "KARUIZAWA OUTLET",
+				"POSTAL_CODE": "389-0102",
+				"ADDRESS_LINE_1": "KARUIZAWA",
+				"ADDRESS_LINE_2": "KARUIZAWA-MACHI",
+				"ADDRESS_LINE_3": "KITASAKU-GUN",
+				"ADDRESS_LINE_4": "NAGANO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "軽井沢・プリンスショッピングプラザ",
+				"ADDRESS_JA": "長野県北佐久郡軽井沢町軽井沢",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					127.6570694,
+					26.1590694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 204,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "ASHBINAA OUTLET",
+				"POSTAL_CODE": "901-0225",
+				"ADDRESS_LINE_1": "1-188 TOYOSAKI",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "TOMIGUSUKU-SHI",
+				"ADDRESS_LINE_4": "OKINAWA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "沖縄アウトレットモール　あしびなー",
+				"ADDRESS_JA": "沖縄県豊見城市字豊崎1番地188",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					136.8812861,
+					36.6894694
+				]
+			},
+			"properties": {
+				"STORE_NUM": 205,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP OYABE",
+				"POSTAL_CODE": "932-8538",
+				"ADDRESS_LINE_1": "972-1 NISHINAKANO",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "OYABE-SHI",
+				"ADDRESS_LINE_4": "TOYAMA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 北陸小矢部",
+				"ADDRESS_JA": "富山県小矢部市西中野972-1",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.0414583,
+					35.6473028
+				]
+			},
+			"properties": {
+				"STORE_NUM": 206,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "MOP MAKUHARI",
+				"POSTAL_CODE": "261-0021",
+				"ADDRESS_LINE_1": "2-6-1 HIBINO",
+				"ADDRESS_LINE_2": "MIHAMA-KU",
+				"ADDRESS_LINE_3": "CHIBA-SHI",
+				"ADDRESS_LINE_4": "CHIBA",
+				"COUNTRY": "JP",
+				"MALL_NAME": "三井アウトレットパーク 幕張",
+				"ADDRESS_JA": "千葉県千葉市美浜区ひび野2-6-1",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4702778,
+					35.5111278
+				]
+			},
+			"properties": {
+				"STORE_NUM": 207,
+				"BRAND": "Banana Republic Factory Store",
+				"STORE_NAME": "GRANDBERRY PARK",
+				"POSTAL_CODE": "194-8589",
+				"ADDRESS_LINE_1": "3-3-1 TSURUMA",
+				"ADDRESS_LINE_2": null,
+				"ADDRESS_LINE_3": "MACHIDA-SHI",
+				"ADDRESS_LINE_4": "TOKYO",
+				"COUNTRY": "JP",
+				"MALL_NAME": "グランベリーパーク",
+				"ADDRESS_JA": "東京都町田市鶴間三丁目３－１",
+				"BRAND_CODE": "BRFS",
+				"type": "Point"
+			}
+		}
+	]
+}
