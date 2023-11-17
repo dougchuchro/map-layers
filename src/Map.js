@@ -1,11 +1,9 @@
 import React, { useRef, useEffect, useState } from "react"
 import mapboxgl from "mapbox-gl"
-import GapJapanStores from './data/GapJapanStoreAddress.json';
-import SnotelSites from "./data/lcc_snotel_sites.json"
-
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './css/Map.css';
 import ShowHotelsCheckbox from "./components/ShowHotelsCheckbox";
+import GapJapanStores from './data/GapJapanStoreAddress.json';
 
 import brIcon from "./img/BR-icon.png";
 import brfsIcon from "./img/BRFS-icon.png";
@@ -14,6 +12,7 @@ import gapIcon from "./img/Gap-icon.png";
 import gfsIcon from "./img/GFS-icon.png";
 import ggIcon from "./img/GG-icon.png";
 import goIcon from "./img/GO-icon.png";
+import StoresList from "./components/StoresList";
 const imgArray = [
     { id: 'br-ico', url: brIcon },
     { id: 'brfs-ico', url: brfsIcon },
@@ -23,13 +22,25 @@ const imgArray = [
     { id: 'gg-ico', url: ggIcon },
     { id: 'go-ico', url: goIcon }
 ];
+// Gap Japan Stores JSON file to stores array
+const stores = GapJapanStores.features;
+// Parse store data to great a list of all Brands
+const brandsMap = new Map(stores.map(store => [store.properties.BRAND_CODE, { brandName: store.properties.BRAND, display: true }]));
+// Add the Store Count to each brand
+brandsMap.forEach((brand, key, map) => {
+  brand.storeCount = (stores.filter(s => s.properties.BRAND_CODE === key).length);
+  brandsMap.set(key, brand);
+});
+console.log("Brands Filter Map: ");
+console.log(brandsMap);
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN
 
-const Map = () => {
+const MbxMap = () => {
     const mapContainer = useRef()
     const [showHotels, setShowHotels] = useState(true);
     const [map, setMap] = useState(null);
+    const [brands, setBrands ] = useState(brandsMap);
 
     function handleClick() {
         setShowHotels(!showHotels);
@@ -56,11 +67,11 @@ const Map = () => {
             })
             map.setTerrain({ source: "mapbox-dem" })
 
-            map.addSource("snotel-sites", {
+/*             map.addSource("snotel-sites", {
                 type: "geojson",
                 data: SnotelSites,
             })
-
+ */
             map.addSource("gap-japan-stores", {
                 type: "geojson",
                 data: GapJapanStores,
@@ -68,7 +79,8 @@ const Map = () => {
 
             // snotel sites - circle layer
             // see https://docs.mapbox.com/mapbox-gl-js/style-spec/layers/#circle
-            map.addLayer({
+
+/*             map.addLayer({
                 id: "snotel-sites-circle",
                 type: "circle",
                 source: "snotel-sites",
@@ -78,11 +90,12 @@ const Map = () => {
                     "circle-stroke-color": "#ffffff",
                     "circle-stroke-width": 2,
                 },
-            })
+            }) */
 
             // snotel sites - label layer
             // see https://docs.mapbox.com/mapbox-gl-js/style-spec/layers/#symbol
-            map.addLayer({
+
+/*             map.addLayer({
                 id: "snotel-sites-label",
                 type: "symbol",
                 source: "snotel-sites",
@@ -96,7 +109,7 @@ const Map = () => {
                     "text-halo-color": "#ffffff",
                     "text-halo-width": 0.5,
                 },
-            })
+            }) */
 
             Promise.all(
                 imgArray.map(img => new Promise((resolve, reject) => {
@@ -133,7 +146,7 @@ const Map = () => {
         return () => map.remove()
     }, [])
 
-    useEffect(() => {
+/*     useEffect(() => {
         paint();
         // eslint-disable-next-line
     }, [showHotels]);
@@ -151,7 +164,7 @@ const Map = () => {
                 map.setFilter('snotel-sites-label', ['==', ['get', 'Station Id'], '0']);
             }
         }
-    };
+    }; */
 
     return (
         <div>
@@ -161,9 +174,12 @@ const Map = () => {
                 </div>
                 <ShowHotelsCheckbox showHotels={showHotels} onClick={handleClick} />
             </div>
+            <div className='sidebarStyle'>
+                <StoresList stores={stores} brandsMap={brands} />
+            </div>
             <div className='map-container' ref={mapContainer} />
         </div>
     )
 }
 
-export default Map;
+export default MbxMap;

@@ -1,10 +1,10 @@
 import React from 'react';
-import Map from './Map';
+import MbxMap from './Map';
 
 function App() {
   return (
     <div>
-      <Map />
+      <MbxMap />
     </div>
   );
 }
